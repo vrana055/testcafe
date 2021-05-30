@@ -1,0 +1,14 @@
+{
+  "name": "testcafe_demo",
+  "version": "1.0.0",
+  "description": "practice testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome src/"
+  },
+  "author": "vibhanshu",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.14.2"
+  }
+}
